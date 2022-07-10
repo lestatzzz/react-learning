@@ -5,12 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img
-          src="https://vuejs.org/images/vueschool/vs-logo.svg"
-          className="App-logo"
-          alt="logo"
-        />
         <p>Vue is the best</p>
+          <p>112312312</p>
       </header>
     </div>
   );
